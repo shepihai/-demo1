@@ -25,7 +25,6 @@ namespace JsonDemo
         {
             string json = JsonConvert.SerializeObject(o);
             return json;
-            //测试
         }
 
         /// <summary>
