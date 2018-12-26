@@ -28,7 +28,7 @@ namespace JsonDemo
         }
 
         /// <summary>
-        /// 解析JSON字符串生成对象实体
+        /// 解析JSON字符串生成对象实体测试1
         /// </summary>
         /// <typeparam name="T">对象类型</typeparam>
         /// <param name="json">json字符串(eg.{"ID":"112","Name":"石子儿"})</param>
